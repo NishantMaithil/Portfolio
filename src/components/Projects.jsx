@@ -2,7 +2,7 @@ import React from "react";
 import Quiz from "../assets/portfolio/Quiz.png";
 import FitnessTracker from "../assets/portfolio/Fitness Tracker.png";
 import Todolist from "../assets/portfolio/To-do-list.png";
-import { Link } from "react-scroll";
+
 
 
 
